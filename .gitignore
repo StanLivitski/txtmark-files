@@ -1,5 +1,6 @@
-build/
+*build/
 doc/
+javadoc/
 release/
 .settings
 .classpath
@@ -8,4 +9,4 @@ target/
 *~
 *.releaseBackup
 release.properties
-
+*.jar
