@@ -62,7 +62,7 @@ document template:
 >     <!DOCTYPE html>
 >     <html>
 >     <head>
-> `<meta charset="`*{document-encoding}*`" />`
+> `<meta charset="` *{document-encoding}* `" />`
 
 >     </head>
 >     <body>
